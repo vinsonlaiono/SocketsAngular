@@ -1,0 +1,28 @@
+{
+  "name": "PairItUp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ec.components/ace": "^0.3.0",
+    "@ec.components/ui": "^0.26.7",
+    "angular2-ace": "0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "ng2-ace-editor": "^0.3.1",
+    "rxjs": "^5.5.2",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/socket.io-client": "^1.4.32"
+  }
+}
