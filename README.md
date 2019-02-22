@@ -1,2 +1,2 @@
 # SocketsAngular
-Creating and MEAN stack implementing SOCKET io
+Creating and MEAN stack Application implementing SOCKET io
